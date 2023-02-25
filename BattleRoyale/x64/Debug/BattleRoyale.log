@@ -1,0 +1,7 @@
+﻿  BattleRoyale.cpp
+C:\Users\gusga\OneDrive\Escritorio\GitHubRepository\gushabo-23-2_PracticasFProgra\BattleRoyale\BattleRoyale.cpp(23,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\gusga\OneDrive\Escritorio\GitHubRepository\gushabo-23-2_PracticasFProgra\BattleRoyale\BattleRoyale.cpp(46,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gusga\OneDrive\Escritorio\GitHubRepository\gushabo-23-2_PracticasFProgra\BattleRoyale\BattleRoyale.cpp(123,54): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gusga\OneDrive\Escritorio\GitHubRepository\gushabo-23-2_PracticasFProgra\BattleRoyale\BattleRoyale.cpp(135,54): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gusga\OneDrive\Escritorio\GitHubRepository\gushabo-23-2_PracticasFProgra\BattleRoyale\BattleRoyale.cpp(73,9): warning C4101: 'roundLosser': variable local sin referencia
+  BattleRoyale.vcxproj -> C:\Users\gusga\OneDrive\Escritorio\GitHubRepository\gushabo-23-2_PracticasFProgra\BattleRoyale\x64\Debug\BattleRoyale.exe
